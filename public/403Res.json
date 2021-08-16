@@ -1,0 +1,16 @@
+{
+    "supportEmail":"SupportEPM-DMPL@epam.com",
+    "mainMessage":"You are trying to reach Finance page, which contains sensitive financial data.",
+    "blocks":[
+        {
+            "message":"If you are a project Delivery Manager, please check your eligibility to access project financial data against the permissions matrix first. Then set up proper access in Delivery Central with Account Manager",
+            "buttonLabel":"Check eligibility",
+            "link":"https://www.epam.com/"
+        },
+        {
+            "message":"While you are waiting for access, we recommend passing the P&L course.",
+            "buttonLabel":"Pass P&L course",
+            "link":"https://www.epam.com/"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "entityType": "project",
+  "entityId": "4060741400369946720",
+  "entityCode": "RAMI-EPT",
+  "projectStartDate": "2019-01-01",
+  "projectEndDate": "2022-06-01",
+  "timeline": {
+    "projectStartDate": "2019-01-01",
+    "projectEndDate": "2022-05-01",
+    "forecastEndDate": "2021-08-31",
+    "projectEndDateShift": -275,
+    "progress": 75,
+    "remainingMonths": 10,
+    "calculatedDate": "2021-07-23T04:02:14.385",
+    "pnlUpToMonth": "2021-05"
+  },
+  "contracts": {
+    "contractsTotal": 3,
+    "changeOrdersTotal": 0,
+    "changeOrdersProcessed": 0,
+    "milestonesTotal": 3,
+    "milestonesCompleted": 0,
+    "milestonesCompletedPercent": 0,
+    "scopeCompletionTotal": 0
+  },
+  "finance": {
+    "budget": 17436250,
+    "revenue": 4455250,
+    "profit": -20059789.87,
+    "profitPercent": 450,
+    "calculatedDate": "2021-07-23T04:02:14.385"
+  }
+}
